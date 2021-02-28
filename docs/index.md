@@ -1,0 +1,1 @@
+# SaltKit – Extensible Browsergame Platform
